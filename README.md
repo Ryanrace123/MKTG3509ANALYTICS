@@ -19,4 +19,4 @@ This is my protfolio collection of my 2021 assignments for MKTG3509 customer dat
 7. **Module 9: Clustering and Segmentation**
 - [A9 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1JWAb0mAtPd62-DhRk774cp49KV0rDamq?usp=sharing)
 8. **Module 10: Text Analysis**
--[A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1QKs_UFN-WDKXS4LafvYQJ72XYoBq0xVE?usp=sharing)
+- [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1QKs_UFN-WDKXS4LafvYQJ72XYoBq0xVE?usp=sharing)
