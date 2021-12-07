@@ -1,4 +1,4 @@
-# MKTG3509ANALYTICS
+# MKTG3509ANALYTICS: Ryan Seybolt
 This is my protfolio collection of my 2021 assignments for MKTG3509 customer data analytics.
 
 ## My Résumé
